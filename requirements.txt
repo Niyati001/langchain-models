@@ -1,35 +1,27 @@
-<<<<<<< HEAD
+
 # LangChain Core
 langchain
 langchain-core
+langchain-community
+langserve
 
-# OpenAI Integration
+# LLM Integrations
 langchain-openai
-openai
-
-# Anthropic Integration
 langchain-anthropic
-
-# Google Gemini (PaLM) Integration
 langchain-google-genai
+langchain-ollama
+openai
 google-generativeai
 
-# Hugging Face Integration
+# Hugging Face
 langchain-huggingface
 transformers
 huggingface-hub
 
-# Environment Variable Management
+# Application
+streamlit
 python-dotenv
 
 # Machine Learning Utilities
 numpy
 scikit-learn
-=======
-langchain_openai
-langchain_core
-python_dotenv
-streamlit
-langchain_community
-langserve
->>>>>>> 6a2fd11 (Add LangChain chatbot with Ollama integration)
