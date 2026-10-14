@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LangChain Core
 langchain
 langchain-core
@@ -24,3 +25,11 @@ python-dotenv
 # Machine Learning Utilities
 numpy
 scikit-learn
+=======
+langchain_openai
+langchain_core
+python_dotenv
+streamlit
+langchain_community
+langserve
+>>>>>>> 6a2fd11 (Add LangChain chatbot with Ollama integration)
